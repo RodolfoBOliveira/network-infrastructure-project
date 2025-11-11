@@ -29,7 +29,7 @@ The school's infrastructure is physically distributed across four main buildings
 
 The adopted network topology follows a **hierarchical star model**, as recommended by the ISO/IEC 11801 standard. 
 
-<img width="1239" height="1149" alt="image" src="https://github.com/user-attachments/assets/308d1467-07b3-4ed9-b147-2add0fbb6d69" />
+<img width="1161" height="1131" alt="image" src="https://github.com/user-attachments/assets/3940b58f-000b-4e65-93e3-be8b96de477a" />
 
 
 * **Core:** The **Campus Distributor (CD / MDF)**, the central core of the network, is strategically located on Floor 0 of Pavilion B.
